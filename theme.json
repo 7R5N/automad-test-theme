@@ -1,0 +1,9 @@
+{
+    "name": "Automad Test Theme",
+    "description": "Try to create a theme for automad …",
+    "author": "Your Name",
+    "license": "MIT",
+    "tooltips": {
+        "+main": "The main content of the page"
+    }
+}
