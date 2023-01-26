@@ -3,7 +3,7 @@
         'name' => '7r5n/automad-test-theme',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '260ea6873eb2830f6acdd57010e0a7877a022b3a',
+        'reference' => '06188ef8b32650dcbd3f01cf783cefb85d268698',
         'type' => 'automad-package',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         '7r5n/automad-test-theme' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '260ea6873eb2830f6acdd57010e0a7877a022b3a',
+            'reference' => '06188ef8b32650dcbd3f01cf783cefb85d268698',
             'type' => 'automad-package',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
