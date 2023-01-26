@@ -1,0 +1,22 @@
+{
+  "name": "automad-test-theme",
+  "version": "1.0.0",
+  "description": "Try to create a theme for automad …",
+  "main": "template.php",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7R5N/automad-test-theme.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "7R5N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7R5N/automad-test-theme/issues"
+  },
+  "homepage": "https://github.com/7R5N/automad-test-theme#readme"
+}
